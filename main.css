@@ -35,18 +35,11 @@ li a {
 }
 
 li a:hover:not(.active) {
-    background-color: #FFA6C9;
+    background-color: #717171;
 }
 
 .active {
     background-color: #717171;
-}
-@media only screen and (max-device-width : 320px)
-   .content {
-    max-width: 250px;
-    margin: auto;
-    background: white;
-    padding: 10px;
 }
 @media screen (max-width: 600px){
     ul.topnav ul.right, 
