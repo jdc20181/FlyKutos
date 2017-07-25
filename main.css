@@ -1,7 +1,7 @@
 body {
     max-width: 500px;
     margin:auto;
-    background-color:  #FFA6C9;
+    background-color:   #87CEEB;
     padding: 10px;
     Text-align:center;
        color:white;
@@ -12,7 +12,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color:  #FFA6C9;
+    background-color: #87CEEB;
 }
 
 li {
