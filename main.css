@@ -1,13 +1,11 @@
 body {
-    background: #555;
-}
-
-.content {
     max-width: 500px;
-    margin: auto;
-    background: white;
+    margin:auto;
+    background-color:  #FFA6C9;
     padding: 10px;
     Text-align:center;
+       color:white;
+    
 }
 ul {
     list-style-type: none;
